@@ -1,2 +1,2 @@
 # YUVI
-User Management Project for assignment
+User Management Project for assignment.
